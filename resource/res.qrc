@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/accelerometer/background.png</file>
+        <file>images/accelerometer/woodenbox.png</file>
+        <file>images/boxes/background.png</file>
+        <file>images/boxes/woodenbox.png</file>
+        <file>images/cannon/cannon.png</file>
+        <file>images/cannon/cannon_base.png</file>
+        <file>images/cannon/wall.jpg</file>
+        <file>images/contacts/wall.jpg</file>
+        <file>images/contacts/wheel.png</file>
+        <file>images/demolition/background.png</file>
+        <file>images/demolition/brickwall.png</file>
+        <file>images/demolition/plate.png</file>
+        <file>images/demolition/skyline.png</file>
+        <file>images/demolition/wheel.png</file>
+        <file>images/demolition/woodenbox.png</file>
+        <file>images/fixtures/wall.jpg</file>
+        <file>images/friction/wall.jpg</file>
+        <file>images/gear/wall.jpg</file>
+        <file>images/monera/coral.png</file>
+        <file>images/monera/coral2.png</file>
+        <file>images/monera/fungus.png</file>
+        <file>images/monera/hexa.png</file>
+        <file>images/monera/monera.png</file>
+        <file>images/monera/README</file>
+        <file>images/monera/shell.png</file>
+        <file>images/monera/shell2.png</file>
+        <file>images/monera/spikes.png</file>
+        <file>images/motorjoint/boat.png</file>
+        <file>images/motorjoint/wave.png</file>
+        <file>images/mouse/wall.jpg</file>
+        <file>images/pulley/wall.jpg</file>
+        <file>images/raycast/wall.jpg</file>
+        <file>images/rope/wall.jpg</file>
+        <file>images/weld/wall.jpg</file>
+        <file>images/wheel/arrow.png</file>
+        <file>images/wheel/wall.jpg</file>
+        <file>images/wheel/wheel.png</file>
+        <file>sound/cannon/cannon.wav</file>
+        <file>sound/cannon/gear.wav</file>
+    </qresource>
+</RCC>

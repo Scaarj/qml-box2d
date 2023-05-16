@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.auroraos.qml_box2d
+Exec=/usr/bin/ru.auroraos.qml_box2d
+Name=Template
+Name[ru]=Шаблон
+
+[X-Application]
+Permissions=
+OrganizationName=ru.auroraos
+ApplicationName=qml_box2d
+ExecDBus=/usr/bin/ru.auroraos.qml_box2d

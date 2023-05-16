@@ -59,26 +59,26 @@ in Qt's import path.
 
 ### Example Screenshots
 
-(These screenshots have been done on an iPad Air)
+(These rootshots have been done on an iPad Air)
 
-<img src="./examples/screenshots/IMG_0645.PNG" width="800" height="600">
+<img src="./examples/rootshots/IMG_0645.PNG" width="800" height="600">
 
-<img src="./examples/screenshots/IMG_0647.PNG" width="800" height="600">
+<img src="./examples/rootshots/IMG_0647.PNG" width="800" height="600">
 
-<img src="./examples/screenshots/IMG_0648.PNG" width="800" height="600">
+<img src="./examples/rootshots/IMG_0648.PNG" width="800" height="600">
 
-<img src="./examples/screenshots/IMG_0653.PNG" width="800" height="600">
+<img src="./examples/rootshots/IMG_0653.PNG" width="800" height="600">
 
-<img src="./examples/screenshots/IMG_0656.PNG" width="800" height="600">
+<img src="./examples/rootshots/IMG_0656.PNG" width="800" height="600">
 
-<img src="./examples/screenshots/IMG_0657.PNG" width="800" height="600">
+<img src="./examples/rootshots/IMG_0657.PNG" width="800" height="600">
 
-<img src="./examples/screenshots/IMG_0658.PNG" width="800" height="600">
+<img src="./examples/rootshots/IMG_0658.PNG" width="800" height="600">
 
-<img src="./examples/screenshots/IMG_0661.PNG" width="800" height="600">
+<img src="./examples/rootshots/IMG_0661.PNG" width="800" height="600">
 
-<img src="./examples/screenshots/IMG_0666.PNG" width="800" height="600">
+<img src="./examples/rootshots/IMG_0666.PNG" width="800" height="600">
 
-<img src="./examples/screenshots/IMG_0669.PNG" width="800" height="600">
+<img src="./examples/rootshots/IMG_0669.PNG" width="800" height="600">
 
-<img src="./examples/screenshots/IMG_0675.PNG" width="800" height="600">
+<img src="./examples/rootshots/IMG_0675.PNG" width="800" height="600">
