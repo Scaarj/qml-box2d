@@ -1,9 +1,0 @@
-#!/usr/bin/make -f
-
-DEB_QMAKE_CONFIG_VAL=BOX2D_SYSTEM
-
-export QT_SELECT=qt5
-
-%:
-	dh $@
-
