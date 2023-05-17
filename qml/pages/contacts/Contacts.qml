@@ -268,14 +268,14 @@ Page {
 
         BoxBody {
             id: flowVertical
-            x: 680
+            x: 660
             y: 60
             width: 60
             height: 500
             world: physicsWorld
             sensor: true
             onBeginContact: {
-                other.getBody().gravityScale = -2
+                other.getBody().gravityScale = -4
             }
         }
         BoxBody {
